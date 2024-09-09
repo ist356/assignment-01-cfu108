@@ -22,4 +22,4 @@ Examples:
 **Best Reflection** "I learned when to use while vs for loops. While loops are for sentiel-controlled values (waiting for a condition to occur), vs for loops are for iterating over collections of fixed values."
 
 `--- Reflection Below This Line ---`
-
+To me as a beginner in python, I learned basic code and rules that are essential for further courseworks, "adding space between words and inputs, also adding "int" as integer as well as "float" in decimals to "tell" python how to recognize and deal with the number.
